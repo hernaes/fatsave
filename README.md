@@ -1,2 +1,2 @@
 # fatsave
-Rule based banking based on Sbanken and Polar APis
+Rule based banking based on Sbanken and Polar APIs
